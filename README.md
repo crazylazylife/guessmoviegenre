@@ -5,10 +5,12 @@ Heroku platform. I am still trying to train the model to achieve greater accurac
 
 [Online App](https://guessmoviegenre.herokuapp.com/) <- The heroku hosted page. When you enter, you will see a simple UI with the choice to upload a file, like this:
 
-![Index Page](indexPage.png | width=300)
+<img src="https://github.com/crazylazylife/guessmoviegenre/blob/master/indexPage.png" alt="Index Page" width="1200px" height="500px"/>
 
 Select a file and upload it. You will be directed to the next page for the results, showing the top 5 genre applicable for the movie from its poster.
 
-![Movie Poster](enemy.jpg | height=100)
-![Result Page](resultPage.png | width=300)
+<img src="https://github.com/crazylazylife/guessmoviegenre/blob/master/enemy.jpg" alt="Index Page" width="200px" height="300px"/>
+<img src="https://github.com/crazylazylife/guessmoviegenre/blob/master/resultPage.png" alt="Index Page" width="1000px" height="500px"/>
+
+
 
