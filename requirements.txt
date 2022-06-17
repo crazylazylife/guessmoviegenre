@@ -1,5 +1,5 @@
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 h5py==2.10.0
 Jinja2==2.10.3
 json5==0.8.5
